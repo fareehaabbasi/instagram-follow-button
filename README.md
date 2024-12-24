@@ -1,0 +1,2 @@
+Instagram Follow Button Feature
+This feature replicates an "Instagram Follow" button, designed to simulate the functionality of toggling between "Follow" and "Following" states. Built using HTML, CSS, and JavaScript, it serves as a hands-on practice project to enhance JavaScript skills. The button dynamically updates its text and style upon interaction, providing a smooth user experience. This project demonstrates the power of JavaScript in creating interactive web elements and highlights proficiency in handling DOM events and state management.
